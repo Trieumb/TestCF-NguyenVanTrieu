@@ -1,0 +1,42 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+.container{
+  background-color: #7f8fa6;
+  height: 100vh;
+}
+.container h1{
+  padding: 20px;
+}
+.content{
+  background-color: white;
+  width: 50%;
+  height: 50%;
+  margin: 50px auto;
+  border-radius: 10px;
+}
+.content h3{
+  padding: 20px;
+  color: #7f8fa6;
+}
+.content input{
+  padding: 5px;
+  margin: 10px ;
+  border-radius: 7px;
+}
+.content button{
+  padding: 5px;
+  border-radius: 7px;
+  border: none;
+  margin: 0 10px;
+}
+.content button:hover{
+  background-color:#7f8fa6 ;
+  color: white;
+}
+
